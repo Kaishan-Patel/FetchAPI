@@ -1,0 +1,44 @@
+body {
+    background: linear-gradient(to bottom, red, blue);
+}
+
+h1 {
+    text-align: center;
+}
+
+button {
+    display: block;
+    max-width: 300px;
+    margin: auto;
+    border: 2px solid green;
+    cursor: pointer;
+    padding: 30px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    border-radius: 10px;
+    background: grey;
+}
+
+button:hover {
+    background-color: green;
+}
+
+div {
+    text-align: center;
+
+}
+
+div li {
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    color: green;
+}
+
+div h5 {
+    display: inline;
+    text-align: center;
+    font-size: 20px;
+    color: coral;
+}
